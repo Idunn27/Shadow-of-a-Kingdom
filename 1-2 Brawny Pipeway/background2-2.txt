@@ -1,0 +1,78 @@
+fill-color = #101010
+
+;[full]
+;img = "bg_full.png"
+;depth = 150
+;fitY = true
+;repeatX = true
+
+[back]
+img = "bg_back.png"
+depth = 125
+fitY = true
+repeatX = true
+y = -32
+
+[wall]
+img = "bg_wall.png"
+depth = 110
+fitY = true
+repeatX = true
+y = -32
+
+
+[water1]
+img = "bg_water1.png"
+depth = 100
+fitY = true
+repeatX = true
+speedX = -0.2
+y = -32
+
+[water2]
+img = "bg_water2.png"
+depth = 90
+fitY = true
+repeatX = true
+speedX = -0.3
+y = -32
+
+[water3]
+img = "bg_water3.png"
+depth = 80
+fitY = true
+repeatX = true
+speedX = -0.4
+y = -32
+
+[water4]
+img = "bg_water2.png"
+depth = 70
+fitY = true
+repeatX = true
+speedX = -0.5
+y = 0
+
+[water5]
+img = "bg_water3.png"
+depth = 60
+fitY = true
+repeatX = true
+speedX = -0.6
+y = 0
+
+[water6]
+img = "bg_water2.png"
+depth = 50
+fitY = true
+repeatX = true
+speedX = -0.7
+y = 32
+
+[water7]
+img = "bg_water4.png"
+depth = 40
+fitY = true
+repeatX = true
+speedX = -0.8
+y = -48

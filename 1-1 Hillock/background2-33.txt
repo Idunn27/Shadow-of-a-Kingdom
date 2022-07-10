@@ -1,0 +1,27 @@
+[Layer1]
+name="Hills 1"
+img=bg_hill1.png
+alignX=LEFT
+alignY=BOTTOM
+depth=50
+parallaxY=1
+repeatX=true
+
+[Layer2]
+name="Sky"
+img=bg_sky.png
+alignX=LEFT
+alignY=BOTTOM
+depth=200
+parallaxY=1
+repeatY=true
+repeatX=true
+
+[Layer3]
+name="Hills 2"
+img=bg_hill2.png
+alignX=LEFT
+alignY=BOTTOM
+depth=100
+parallaxY=1
+repeatX=true

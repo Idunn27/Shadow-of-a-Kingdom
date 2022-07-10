@@ -1,0 +1,1 @@
+playerfilter=-1

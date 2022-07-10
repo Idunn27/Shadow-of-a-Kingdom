@@ -1,0 +1,3 @@
+height=52
+gfxheight=52
+jumphurt=1

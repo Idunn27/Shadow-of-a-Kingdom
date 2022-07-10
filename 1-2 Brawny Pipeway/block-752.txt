@@ -1,0 +1,2 @@
+playerfilter=-1
+floorslope=-1

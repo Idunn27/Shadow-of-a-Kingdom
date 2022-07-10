@@ -1,0 +1,10 @@
+frames=4
+framestyle=0
+nohurt=0
+jumphurt=1
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+nogravity=1
+noblockcollision=1
